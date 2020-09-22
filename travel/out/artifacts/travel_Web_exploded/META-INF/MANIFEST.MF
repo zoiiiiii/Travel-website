@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: kzero
+Build-Jdk: 1.8.0_241
+Implementation-Title: travel
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.xingying.travel
+Main-Class: ${start-class}
+
